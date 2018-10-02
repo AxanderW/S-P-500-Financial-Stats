@@ -1,0 +1,506 @@
+Company, Revenue , Expenses , Assets , Liabilities 
+AT&T Inc.,5000,3000,40000,500
+CenturyLink Inc,5000,3000,40000,500
+Verizon Communications,5000,3000,40000,500
+Air Products & Chemicals Inc,5000,3000,40000,500
+Albemarle Corp,5000,3000,40000,500
+Avery Dennison Corp,5000,3000,40000,500
+Ball Corp,5000,3000,40000,500
+CF Industries Holdings Inc,5000,3000,40000,500
+DowDuPont,5000,3000,40000,500
+Eastman Chemical,30000,2000,500,1000
+Ecolab Inc.,30000,2000,500,1000
+FMC Corporation,30000,2000,500,1000
+FreeportMcMoRan Inc.,30000,2000,500,1000
+International Paper,30000,2000,500,1000
+Intl Flavors & Fragrances,30000,2000,500,1000
+LyondellBasell,30000,2000,500,1000
+Martin Marietta Materials,30000,2000,500,1000
+Monsanto Co.,30000,2000,500,1000
+The Mosaic Company,30000,2000,500,1000
+Newmont Mining Corporation,30000,2000,500,1000
+Nucor Corp.,30000,2000,500,1000
+Packaging Corporation of America,30000,2000,500,1000
+PPG Industries,30000,2000,500,1000
+Praxair Inc.,30000,2000,500,1000
+Sealed Air,30000,2000,500,1000
+SherwinWilliams,30000,2000,500,1000
+Vulcan Materials,65000,85000,1000,23000
+WestRock Company,65000,85000,1000,23000
+AES Corp,65000,85000,1000,23000
+Alliant Energy Corp,65000,85000,1000,23000
+Ameren Corp,65000,85000,1000,23000
+American Electric Power,65000,85000,1000,23000
+American Water Works Company Inc,65000,85000,1000,23000
+CenterPoint Energy,65000,85000,1000,23000
+CMS Energy,65000,85000,1000,23000
+Consolidated Edison,65000,85000,1000,23000
+Dominion Energy,65000,85000,1000,23000
+DTE Energy Co.,65000,85000,1000,23000
+Duke Energy,65000,85000,1000,23000
+Edison Int'l,65000,85000,1000,23000
+Entergy Corp.,65000,85000,1000,23000
+Eversource Energy,65000,85000,1000,23000
+Exelon Corp.,65000,85000,1000,23000
+FirstEnergy Corp,65000,85000,1000,23000
+NextEra Energy,65000,85000,1000,23000
+NiSource Inc.,65000,85000,1000,23000
+NRG Energy,65000,85000,1000,23000
+PG&E Corp.,65000,85000,1000,23000
+Pinnacle West Capital,65000,85000,1000,23000
+PPL Corp.,65000,85000,1000,23000
+Public Serv. Enterprise Inc.,65000,85000,1000,23000
+SCANA Corp,65000,85000,1000,23000
+Sempra Energy,65000,85000,1000,23000
+Southern Co.,65000,85000,1000,23000
+Wec Energy Group Inc,65000,85000,1000,23000
+Xcel Energy Inc,65000,85000,1000,23000
+Anadarko Petroleum Corp,65000,85000,1000,23000
+Andeavor,65000,85000,1000,23000
+Apache Corporation,65000,85000,1000,23000
+"Baker Hughes, a GE Company",65000,85000,1000,23000
+Cabot Oil & Gas,65000,85000,1000,23000
+Chevron Corp.,65000,85000,1000,23000
+Cimarex Energy,65000,85000,1000,23000
+Concho Resources,65000,85000,1000,23000
+ConocoPhillips,65000,85000,1000,23000
+Devon Energy Corp.,65000,85000,1000,23000
+EOG Resources,65000,85000,1000,23000
+EQT Corporation,65000,85000,1000,23000
+Exxon Mobil Corp.,65000,85000,1000,23000
+Halliburton Co.,65000,85000,1000,23000
+Helmerich & Payne,65000,85000,1000,23000
+Hess Corporation,65000,85000,1000,23000
+Kinder Morgan,65000,85000,1000,23000
+Marathon Oil Corp.,65000,85000,1000,23000
+Marathon Petroleum,30000,2000,500,1000
+National Oilwell Varco Inc.,30000,2000,500,1000
+Newfield Exploration Co,30000,2000,500,1000
+Noble Energy Inc,30000,2000,500,1000
+Occidental Petroleum,30000,2000,500,1000
+ONEOK,30000,2000,500,1000
+Phillips 66,30000,2000,500,1000
+Pioneer Natural Resources,30000,2000,500,1000
+Range Resources Corp.,30000,2000,500,1000
+Schlumberger Ltd.,30000,2000,500,1000
+TechnipFMC,28,45,2000,2000
+Valero Energy,60,11,1,1
+Williams Cos.,20,51,1,1
+Alexandria Real Estate EquitiesInc,28,42,1,1
+American Tower Corp A,13,54,1,1
+Apartment Investment & Management,40,23,2000,2000
+"AvalonBay Communities, Inc.",50,13,2000,2000
+Boston Properties,30000,2000,500,1000
+CBRE Group,30000,2000,500,1000
+Crown Castle International Corp.,30000,2000,500,1000
+Digital Realty Trust Inc,30000,2000,500,1000
+Duke Realty Corp,30000,2000,500,1000
+Equinix,30000,2000,500,1000
+Equity Residential,30000,2000,500,1000
+"Essex Property Trust, Inc.",30000,2000,500,1000
+Extra Space Storage,30000,2000,500,1000
+Federal Realty Investment Trust,30000,2000,500,1000
+General Growth Properties Inc.,30000,2000,500,1000
+HCP Inc.,30000,2000,500,1000
+Host Hotels & Resorts,30000,2000,500,1000
+Iron Mountain Incorporated,30000,2000,500,1000
+Kimco Realty,30000,2000,500,1000
+Macerich,30000,2000,500,1000
+MidAmerica Apartments,30000,2000,500,1000
+Prologis,30000,2000,500,1000
+Public Storage,30000,2000,500,1000
+Realty Income Corporation,14,30,2000,2000
+Regency Centers Corporation,32,12,2000,2000
+SBA Communications,27,17,2000,2000
+Simon Property Group Inc,6,36,2000,2000
+SL Green Realty,30000,2000,500,1000
+UDR Inc,30000,2000,500,1000
+Ventas Inc,30000,2000,500,1000
+Vornado Realty Trust,30000,2000,500,1000
+Welltower Inc.,30000,2000,500,1000
+Weyerhaeuser Corp.,30000,2000,500,1000
+Altria Group Inc,30000,2000,500,1000
+ArcherDanielsMidland Co,30000,2000,500,1000
+BrownForman Corp.,30000,2000,500,1000
+Campbell Soup,30000,2000,500,1000
+Church & Dwight,30000,2000,500,1000
+The Clorox Company,30000,2000,500,1000
+CocaCola Company (The),30000,2000,500,1000
+ColgatePalmolive,30000,2000,500,1000
+Conagra Brands,30000,2000,500,1000
+Constellation Brands,30000,2000,500,1000
+Costco Wholesale Corp.,30000,2000,500,1000
+"Coty, Inc",30000,2000,500,1000
+CVS Health,30000,2000,500,1000
+Dr Pepper Snapple Group,23,3,2000,2000
+Estee Lauder Cos.,23,3,2000,2000
+General Mills,7,17,1,1
+The Hershey Company,9,15,2000,2000
+Hormel Foods Corp.,3,20,2000,2000
+JM Smucker,7,14,2000,2000
+Kellogg Co.,5,14,1,1
+KimberlyClark,1,19,2000,2000
+Kraft Heinz Co,7,13,2000,2000
+Kroger Co.,11,9,2000,2000
+McCormick & Co.,7,12,2000,2000
+Molson Coors Brewing Company,7,12,2000,2000
+Mondelez International,13,5,2000,2000
+Monster Beverage,8,9,2000,2000
+PepsiCo Inc.,3,14,2000,2000
+Philip Morris International,7,9,2000,2000
+Procter & Gamble,3,13,2000,2000
+Sysco Corp.,1,15,2000,2000
+Tyson Foods,6,10,2000,2000
+WalMart Stores,15,1,2000,2000
+Walgreens Boots Alliance,3,12,2000,2000
+Abbott Laboratories,12,3,2000,2000
+AbbVie Inc.,3,12,2000,2000
+Aetna Inc,5,10,2000,2000
+Agilent Technologies Inc,6,8,2000,2000
+Alexion Pharmaceuticals,8,5,2000,2000
+Align Technology,8,5,2000,2000
+"Allergan, Plc",3,10,2000,2000
+AmerisourceBergen Corp,8,3,2000,2000
+Amgen Inc.,1,9,1,1
+Anthem Inc.,8,3,2000,2000
+Baxter International Inc.,1,10,2000,2000
+Becton Dickinson,30000,2000,500,1000
+Biogen Inc.,30000,2000,500,1000
+Boston Scientific,30000,2000,500,1000
+BristolMyers Squibb,30000,2000,500,1000
+Cardinal Health Inc.,30000,2000,500,1000
+Celgene Corp.,30000,2000,500,1000
+Centene Corporation,30000,2000,500,1000
+Cerner,30000,2000,500,1000
+CIGNA Corp.,30000,2000,500,1000
+The Cooper Companies,30000,2000,500,1000
+Danaher Corp.,30000,2000,500,1000
+DaVita Inc.,30000,2000,500,1000
+Dentsply Sirona,30000,2000,500,1000
+Edwards Lifesciences,30000,2000,500,1000
+Envision Healthcare,30000,2000,500,1000
+Express Scripts,30000,2000,500,1000
+Gilead Sciences,30000,2000,500,1000
+HCA Holdings,30000,2000,500,1000
+Henry Schein,30000,2000,500,1000
+Hologic,30000,2000,500,1000
+Humana Inc.,30000,2000,500,1000
+IDEXX Laboratories,30000,2000,500,1000
+Illumina Inc,30000,2000,500,1000
+Incyte,30000,2000,500,1000
+Intuitive Surgical Inc.,30000,2000,500,1000
+IQVIA Holdings Inc.,30000,2000,500,1000
+Johnson & Johnson,30000,2000,500,1000
+Laboratory Corp. of America Holding,30000,2000,500,1000
+Lilly (Eli) & Co.,30000,2000,500,1000
+McKesson Corp.,30000,2000,500,1000
+Medtronic plc,30000,2000,500,1000
+Merck & Co.,30000,2000,500,1000
+Mettler Toledo,30000,2000,500,1000
+Mylan N.V.,30000,2000,500,1000
+Nektar Therapeutics,30000,2000,500,1000
+PerkinElmer,30000,2000,500,1000
+Perrigo,30000,2000,500,1000
+Pfizer Inc.,30000,2000,500,1000
+Quest Diagnostics,30000,2000,500,1000
+Regeneron,30000,2000,500,1000
+ResMed,30000,2000,500,1000
+Stryker Corp.,30000,2000,500,1000
+Thermo Fisher Scientific,30000,2000,500,1000
+United Health Group Inc.,30000,2000,500,1000
+"Universal Health Services, Inc.",30000,2000,500,1000
+Varian Medical Systems,30000,2000,500,1000
+Vertex Pharmaceuticals Inc,30000,2000,500,1000
+Waters Corporation,30000,2000,500,1000
+Zimmer Biomet Holdings,30000,2000,500,1000
+Zoetis,30000,2000,500,1000
+3M Company,30000,2000,500,1000
+Acuity Brands Inc,30000,2000,500,1000
+Alaska Air Group Inc,30000,2000,500,1000
+Allegion,30000,2000,500,1000
+American Airlines Group,30000,2000,500,1000
+AMETEK Inc.,30000,2000,500,1000
+A.O. Smith Corp,30000,2000,500,1000
+Arconic Inc.,30000,2000,500,1000
+Boeing Company,30000,2000,500,1000
+C. H. Robinson Worldwide,30000,2000,500,1000
+Caterpillar Inc.,30000,2000,500,1000
+Cintas Corporation,30000,2000,500,1000
+CSX Corp.,30000,2000,500,1000
+Cummins Inc.,30000,2000,500,1000
+Deere & Co.,30000,2000,500,1000
+Delta Air Lines Inc.,30000,2000,500,1000
+Dover Corp.,30000,2000,500,1000
+Eaton Corporation,30000,2000,500,1000
+Emerson Electric Company,30000,2000,500,1000
+Equifax Inc.,30000,2000,500,1000
+Expeditors International,30000,2000,500,1000
+Fastenal Co,30000,2000,500,1000
+FedEx Corporation,30000,2000,500,1000
+Flowserve Corporation,30000,2000,500,1000
+Fluor Corp.,30000,2000,500,1000
+Fortive Corp,30000,2000,500,1000
+Fortune Brands Home & Security,30000,2000,500,1000
+General Dynamics,30000,2000,500,1000
+General Electric,30000,2000,500,1000
+Grainger (W.W.) Inc.,30000,2000,500,1000
+Honeywell Int'l Inc.,30000,2000,500,1000
+Huntington Ingalls Industries,30000,2000,500,1000
+IHS Markit Ltd.,30000,2000,500,1000
+Illinois Tool Works,30000,2000,500,1000
+IngersollRand PLC,30000,2000,500,1000
+Jacobs Engineering Group,30000,2000,500,1000
+J. B. Hunt Transport Services,30000,2000,500,1000
+Johnson Controls International,30000,2000,500,1000
+Kansas City Southern,30000,2000,500,1000
+L3 Communications Holdings,30000,2000,500,1000
+Lockheed Martin Corp.,30000,2000,500,1000
+Masco Corp.,30000,2000,500,1000
+Nielsen Holdings,30000,2000,500,1000
+Norfolk Southern Corp.,30000,2000,500,1000
+Northrop Grumman Corp.,30000,2000,500,1000
+PACCAR Inc.,30000,2000,500,1000
+ParkerHannifin,30000,2000,500,1000
+Pentair Ltd.,30000,2000,500,1000
+Quanta Services Inc.,30000,2000,500,1000
+Raytheon Co.,30000,2000,500,1000
+Republic Services Inc,30000,2000,500,1000
+Robert Half International,30000,2000,500,1000
+Rockwell Automation Inc.,30000,2000,500,1000
+Rockwell Collins,30000,2000,500,1000
+Roper Technologies,30000,2000,500,1000
+Southwest Airlines,30000,2000,500,1000
+Stericycle Inc,30000,2000,500,1000
+Textron Inc.,30000,2000,500,1000
+TransDigm Group,30000,2000,500,1000
+Union Pacific,30000,2000,500,1000
+United Continental Holdings,30000,2000,500,1000
+United Parcel Service,30000,2000,500,1000
+"United Rentals, Inc.",30000,2000,500,1000
+United Technologies,30000,2000,500,1000
+Verisk Analytics,30000,2000,500,1000
+Waste Management Inc.,30000,2000,500,1000
+Xylem Inc.,30000,2000,500,1000
+Affiliated Managers Group Inc,30000,2000,500,1000
+AFLAC Inc,30000,2000,500,1000
+Allstate Corp,30000,2000,500,1000
+American Express Co,30000,2000,500,1000
+"American International Group, Inc.",30000,2000,500,1000
+Ameriprise Financial,30000,2000,500,1000
+Aon plc,30000,2000,500,1000
+Arthur J. Gallagher & Co.,30000,2000,500,1000
+Assurant Inc.,30000,2000,500,1000
+Bank of America Corp,30000,2000,500,1000
+The Bank of New York Mellon Corp.,30000,2000,500,1000
+BB&T Corporation,30000,2000,500,1000
+Berkshire Hathaway,30000,2000,500,1000
+BlackRock,30000,2000,500,1000
+Block H&R,30000,2000,500,1000
+Brighthouse Financial Inc,30000,2000,500,1000
+Capital One Financial,30000,2000,500,1000
+Cboe Global Markets,30000,2000,500,1000
+Charles Schwab Corporation,30000,2000,500,1000
+Chubb Limited,30000,2000,500,1000
+Cincinnati Financial,30000,2000,500,1000
+Citigroup Inc.,30000,2000,500,1000
+Citizens Financial Group,30000,2000,500,1000
+CME Group Inc.,30000,2000,500,1000
+Comerica Inc.,30000,2000,500,1000
+Discover Financial Services,30000,2000,500,1000
+E*Trade,30000,2000,500,1000
+Everest Re Group Ltd.,30000,2000,500,1000
+Fifth Third Bancorp,30000,2000,500,1000
+Franklin Resources,30000,2000,500,1000
+Goldman Sachs Group,30000,2000,500,1000
+Hartford Financial Svc.Gp.,30000,2000,500,1000
+Huntington Bancshares,30000,2000,500,1000
+Intercontinental Exchange,30000,2000,500,1000
+Invesco Ltd.,30000,2000,500,1000
+JPMorgan Chase & Co.,30000,2000,500,1000
+KeyCorp,30000,2000,500,1000
+Leucadia National Corp.,30000,2000,500,1000
+Lincoln National,30000,2000,500,1000
+Loews Corp.,30000,2000,500,1000
+M&T Bank Corp.,30000,2000,500,1000
+Marsh & McLennan,30000,2000,500,1000
+MetLife Inc.,30000,2000,500,1000
+Moody's Corp,30000,2000,500,1000
+Morgan Stanley,30000,2000,500,1000
+"Nasdaq, Inc.",30000,2000,500,1000
+Navient,30000,2000,500,1000
+Northern Trust Corp.,30000,2000,500,1000
+People's United Financial,30000,2000,500,1000
+PNC Financial Services,30000,2000,500,1000
+Principal Financial Group,30000,2000,500,1000
+Progressive Corp.,30000,2000,500,1000
+Prudential Financial,30000,2000,500,1000
+Raymond James Financial Inc.,30000,2000,500,1000
+Regions Financial Corp.,30000,2000,500,1000
+"S&P Global, Inc.",30000,2000,500,1000
+State Street Corp.,30000,2000,500,1000
+SunTrust Banks,30000,2000,500,1000
+SVB Financial,30000,2000,500,1000
+Synchrony Financial,30000,2000,500,1000
+T. Rowe Price Group,30000,2000,500,1000
+Torchmark Corp.,30000,2000,500,1000
+The Travelers Companies Inc.,30000,2000,500,1000
+U.S. Bancorp,30000,2000,500,1000
+Unum Group,30000,2000,500,1000
+Wells Fargo,30000,2000,500,1000
+Willis Towers Watson,30000,2000,500,1000
+XL Capital,30000,2000,500,1000
+Zions Bancorp,30000,2000,500,1000
+Accenture plc,30000,2000,500,1000
+Activision Blizzard,30000,2000,500,1000
+Adobe Systems Inc,30000,2000,500,1000
+Advanced Micro Devices Inc,30000,2000,500,1000
+Akamai Technologies Inc,30000,2000,500,1000
+Alliance Data Systems,30000,2000,500,1000
+Alphabet Inc Class A,30000,2000,500,1000
+Alphabet Inc Class C,30000,2000,500,1000
+Amphenol Corp,30000,2000,500,1000
+"Analog Devices, Inc.",30000,2000,500,1000
+ANSYS,30000,2000,500,1000
+Apple Inc.,30000,2000,500,1000
+Applied Materials Inc.,30000,2000,500,1000
+Autodesk Inc.,30000,2000,500,1000
+Automatic Data Processing,30000,2000,500,1000
+Broadcom,30000,2000,500,1000
+"CA, Inc.",30000,2000,500,1000
+Cadence Design Systems,30000,2000,500,1000
+Cisco Systems,30000,2000,500,1000
+Citrix Systems,30000,2000,500,1000
+Cognizant Technology Solutions,30000,2000,500,1000
+Corning Inc.,30000,2000,500,1000
+CSRA Inc.,30000,2000,500,1000
+DXC Technology,30000,2000,500,1000
+eBay Inc.,30000,2000,500,1000
+Electronic Arts,30000,2000,500,1000
+F5 Networks,30000,2000,500,1000
+"Facebook, Inc.",30000,2000,500,1000
+Fidelity National Information Services,30000,2000,500,1000
+Fiserv Inc,30000,2000,500,1000
+FLIR Systems,30000,2000,500,1000
+Gartner Inc,30000,2000,500,1000
+Global Payments Inc.,30000,2000,500,1000
+Harris Corporation,30000,2000,500,1000
+Hewlett Packard Enterprise,30000,2000,500,1000
+HP Inc.,30000,2000,500,1000
+Intel Corp.,30000,2000,500,1000
+International Business Machines,30000,2000,500,1000
+Intuit Inc.,30000,2000,500,1000
+IPG Photonics Corp.,30000,2000,500,1000
+Juniper Networks,30000,2000,500,1000
+KLATencor Corp.,30000,2000,500,1000
+Lam Research,30000,2000,500,1000
+Mastercard Inc.,30000,2000,500,1000
+Microchip Technology,30000,2000,500,1000
+Micron Technology,30000,2000,500,1000
+Microsoft Corp.,30000,2000,500,1000
+Motorola Solutions Inc.,30000,2000,500,1000
+NetApp,30000,2000,500,1000
+Netflix Inc.,30000,2000,500,1000
+Nvidia Corporation,30000,2000,500,1000
+Oracle Corp.,30000,2000,500,1000
+Paychex Inc.,30000,2000,500,1000
+PayPal,30000,2000,500,1000
+Qorvo,30000,2000,500,1000
+QUALCOMM Inc.,30000,2000,500,1000
+Red Hat Inc.,30000,2000,500,1000
+Salesforce.com,30000,2000,500,1000
+Seagate Technology,30000,2000,500,1000
+Skyworks Solutions,30000,2000,500,1000
+Symantec Corp.,30000,2000,500,1000
+Synopsys Inc.,30000,2000,500,1000
+TakeTwo Interactive,30000,2000,500,1000
+TE Connectivity Ltd.,30000,2000,500,1000
+Texas Instruments,30000,2000,500,1000
+Total System Services,30000,2000,500,1000
+Verisign Inc.,30000,2000,500,1000
+Visa Inc.,30000,2000,500,1000
+Western Digital,30000,2000,500,1000
+Western Union Co,30000,2000,500,1000
+Xerox Corp.,30000,2000,500,1000
+Xilinx Inc,30000,2000,500,1000
+Advance Auto Parts,30000,2000,500,1000
+Amazon.com Inc.,30000,2000,500,1000
+Aptiv Plc,30000,2000,500,1000
+AutoZone Inc,30000,2000,500,1000
+Best Buy Co. Inc.,30000,2000,500,1000
+Booking Holdings Inc,30000,2000,500,1000
+BorgWarner,30000,2000,500,1000
+Carmax Inc,30000,2000,500,1000
+Carnival Corp.,30000,2000,500,1000
+CBS Corp.,30000,2000,500,1000
+Charter Communications,30000,2000,500,1000
+Chipotle Mexican Grill,30000,2000,500,1000
+Comcast Corp.,30000,2000,500,1000
+D. R. Horton,30000,2000,500,1000
+Darden Restaurants,30000,2000,500,1000
+Discovery Inc. Class A,30000,2000,500,1000
+Discovery Inc. Class C,30000,2000,500,1000
+Dish Network,30000,2000,500,1000
+Dollar General,30000,2000,500,1000
+Dollar Tree,30000,2000,500,1000
+Expedia Inc.,30000,2000,500,1000
+Foot Locker Inc,30000,2000,500,1000
+Ford Motor,30000,2000,500,1000
+Gap Inc.,30000,2000,500,1000
+Garmin Ltd.,30000,2000,500,1000
+General Motors,30000,2000,500,1000
+Genuine Parts,30000,2000,500,1000
+Goodyear Tire & Rubber,30000,2000,500,1000
+Hanesbrands Inc,30000,2000,500,1000
+HarleyDavidson,30000,2000,500,1000
+Hasbro Inc.,30000,2000,500,1000
+Hilton Worldwide Holdings Inc,30000,2000,500,1000
+Home Depot,30000,2000,500,1000
+Interpublic Group,30000,2000,500,1000
+Kohl's Corp.,30000,2000,500,1000
+L Brands Inc.,30000,2000,500,1000
+Leggett & Platt,30000,2000,500,1000
+Lennar Corp.,30000,2000,500,1000
+LKQ Corporation,30000,2000,500,1000
+Lowe's Cos.,30000,2000,500,1000
+Macy's Inc.,30000,2000,500,1000
+Marriott Int'l.,30000,2000,500,1000
+Mattel Inc.,30000,2000,500,1000
+McDonald's Corp.,30000,2000,500,1000
+MGM Resorts International,30000,2000,500,1000
+Michael Kors Holdings,30000,2000,500,1000
+Mohawk Industries,30000,2000,500,1000
+Newell Brands,30000,2000,500,1000
+News Corp. Class A,30000,2000,500,1000
+News Corp. Class B,30000,2000,500,1000
+Nike,30000,2000,500,1000
+Nordstrom,30000,2000,500,1000
+Norwegian Cruise Line,30000,2000,500,1000
+O'Reilly Automotive,30000,2000,500,1000
+Omnicom Group,30000,2000,500,1000
+Polo Ralph Lauren Corp.,30000,2000,500,1000
+Pulte Homes Inc.,30000,2000,500,1000
+PVH Corp.,30000,2000,500,1000
+Ross Stores,30000,2000,500,1000
+Royal Caribbean Cruises Ltd,30000,2000,500,1000
+SnapOn Inc.,30000,2000,500,1000
+Stanley Black & Decker,30000,2000,500,1000
+Starbucks Corp.,30000,2000,500,1000
+"Tapestry, Inc.",30000,2000,500,1000
+Target Corp.,30000,2000,500,1000
+Tiffany & Co.,30000,2000,500,1000
+Time Warner Inc.,30000,2000,500,1000
+TJX Companies Inc.,30000,2000,500,1000
+Tractor Supply Company,30000,2000,500,1000
+TripAdvisor,30000,2000,500,1000
+TwentyFirst Century Fox Class A,30000,2000,500,1000
+TwentyFirst Century Fox Class B,30000,2000,500,1000
+Ulta Beauty,30000,2000,500,1000
+Under Armour Class A,30000,2000,500,1000
+Under Armour Class C,30000,2000,500,1000
+V.F. Corp.,30000,2000,500,1000
+Viacom Inc.,30000,2000,500,1000
+The Walt Disney Company,30000,2000,500,1000
+Whirlpool Corp.,30000,2000,500,1000
+Wyndham Worldwide,30000,2000,500,1000
+Wynn Resorts Ltd,30000,2000,500,1000
+Yum! Brands Inc,30000,2000,500,1000
