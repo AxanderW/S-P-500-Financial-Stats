@@ -70,7 +70,7 @@ with open(salesCSV, 'r') as csvfile:
 
     for row in csvreader:
         #If the company's name in a row is equal to that which is input...
-        if (companyToCheck == row[0]):
+        if (row[0] == companyToCheck):
             getFinancials(row)
             found = True
 
